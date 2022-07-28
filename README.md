@@ -1,10 +1,3 @@
 # ZSEiT
 
-I will make some reorganisation in this repo tommorw
-
-Michalską jebał pies
-
-Ale dlaczego
-
-
-nie pytaj, tak poprostu jest
+Here I have a few little tasks that I made for a mark in my school
