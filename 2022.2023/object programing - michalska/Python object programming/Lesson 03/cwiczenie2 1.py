@@ -1,4 +1,4 @@
-class książka:
+class ksiazka:
     
     tytul = ""
     autor = ""
@@ -16,11 +16,11 @@ class książka:
     def nowyWlasciciel(self, nowyWlasciciel):
         self.wlasciciel = wlasciciel
 
-k1 = książka("Nessmuk", "George Michael", 1800, 190, "Biblioteka") 
-k2 = książka("Zmora z Dunwitch",  "H.P. Lovecraft", 1930, 45, "Biblioteka")
-k3 = książka("Zew Cthulu",  "H.P Lovecraft", 1925, 20, "Biblioteka")
-k4 = książka("Władca Pierścieni",  "Tolkien", 1935, 400, "Biblioteka")
-k5 = książka("Pipi Pończoszanka",  "Astrid Lindgren", 1950, 120, "Biblioteka")
+k1 = ksiazka("Nessmuk", "George Michael", 1800, 190, "Biblioteka") 
+k2 = ksiazka("Zmora z Dunwitch",  "H.P. Lovecraft", 1930, 45, "Biblioteka")
+k3 = ksiazka("Zew Cthulu",  "H.P Lovecraft", 1925, 20, "Biblioteka")
+k4 = ksiazka("Władca Pierścieni",  "Tolkien", 1935, 400, "Biblioteka")
+k5 = ksiazka("Pipi Pończoszanka",  "Astrid Lindgren", 1950, 120, "Biblioteka")
 
 listaKsiazek = [k1, k2]
 
