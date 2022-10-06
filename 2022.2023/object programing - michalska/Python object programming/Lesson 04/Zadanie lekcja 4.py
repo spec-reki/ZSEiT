@@ -1,8 +1,9 @@
 class Laptop:    
     def __init__(self, brand, model, price):
+        assert price > 0
         self.brand = brand
         self.model = model
-        self.price = price
+        self.price: float = price
         
         
     def show_details(self):
