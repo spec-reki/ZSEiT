@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\spec-reki\\Documents\\GitHub\\ZSEiT\\2022.2023\\Egzamin zawodowy styczeń 2022\\Aplikacja konsolowa\\Aplikacja konsolowa.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\spec-reki\\Documents\\GitHub\\ZSEiT\\2022.2023\\Egzamin zawodowy styczeń 2022\\Aplikacja konsolowa\\Aplikacja konsolowa.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\spec-reki\\Documents\\GitHub\\ZSEiT\\2022.2023\\Egzamin zawodowy styczeń 2022\\Aplikacja konsolowa\\Aplikacja konsolowa.csproj",
+        "projectName": "Aplikacja konsolowa",
+        "projectPath": "C:\\Users\\spec-reki\\Documents\\GitHub\\ZSEiT\\2022.2023\\Egzamin zawodowy styczeń 2022\\Aplikacja konsolowa\\Aplikacja konsolowa.csproj",
+        "packagesPath": "C:\\Users\\spec-reki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\spec-reki\\Documents\\GitHub\\ZSEiT\\2022.2023\\Egzamin zawodowy styczeń 2022\\Aplikacja konsolowa\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\spec-reki\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
