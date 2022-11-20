@@ -1,0 +1,15 @@
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\Egzamin zawodowy styczeń 2022\Aplikacja konsolowa\bin\Debug\net6.0\Aplikacja konsolowa.exe
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\Egzamin zawodowy styczeń 2022\Aplikacja konsolowa\bin\Debug\net6.0\Aplikacja konsolowa.deps.json
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\Egzamin zawodowy styczeń 2022\Aplikacja konsolowa\bin\Debug\net6.0\Aplikacja konsolowa.runtimeconfig.json
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\Egzamin zawodowy styczeń 2022\Aplikacja konsolowa\bin\Debug\net6.0\Aplikacja konsolowa.dll
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\Egzamin zawodowy styczeń 2022\Aplikacja konsolowa\bin\Debug\net6.0\Aplikacja konsolowa.pdb
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\Egzamin zawodowy styczeń 2022\Aplikacja konsolowa\obj\Debug\net6.0\Aplikacja konsolowa.csproj.AssemblyReference.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\Egzamin zawodowy styczeń 2022\Aplikacja konsolowa\obj\Debug\net6.0\Aplikacja konsolowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\Egzamin zawodowy styczeń 2022\Aplikacja konsolowa\obj\Debug\net6.0\Aplikacja konsolowa.AssemblyInfoInputs.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\Egzamin zawodowy styczeń 2022\Aplikacja konsolowa\obj\Debug\net6.0\Aplikacja konsolowa.AssemblyInfo.cs
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\Egzamin zawodowy styczeń 2022\Aplikacja konsolowa\obj\Debug\net6.0\Aplikacja konsolowa.csproj.CoreCompileInputs.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\Egzamin zawodowy styczeń 2022\Aplikacja konsolowa\obj\Debug\net6.0\Aplikacja konsolowa.dll
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\Egzamin zawodowy styczeń 2022\Aplikacja konsolowa\obj\Debug\net6.0\refint\Aplikacja konsolowa.dll
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\Egzamin zawodowy styczeń 2022\Aplikacja konsolowa\obj\Debug\net6.0\Aplikacja konsolowa.pdb
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\Egzamin zawodowy styczeń 2022\Aplikacja konsolowa\obj\Debug\net6.0\Aplikacja konsolowa.genruntimeconfig.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\Egzamin zawodowy styczeń 2022\Aplikacja konsolowa\obj\Debug\net6.0\ref\Aplikacja konsolowa.dll
