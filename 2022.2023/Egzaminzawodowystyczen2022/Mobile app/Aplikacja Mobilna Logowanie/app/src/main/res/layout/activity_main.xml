@@ -14,6 +14,7 @@
         android:textColor="@color/white"
         android:textSize="100px"
 
+
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
@@ -21,14 +22,71 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0" />
 
+
     <TextView
+        android:id="@+id/podajemail"
         android:layout_width="118dp"
         android:layout_height="32dp"
         android:text="Podaj e-mail:"
+        android:textColor="@color/black"
+
         android:textSize="50px"
 
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="67dp" />
+        tools:layout_editor_absoluteY="68dp" />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="403dp"
+        android:layout_height="41dp"
+        android:hint="email"
+
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="107dp" />
+
+    <TextView
+        android:layout_width="118dp"
+        android:layout_height="32dp"
+        android:text="Podaj hasło:"
+        android:textColor="@color/black"
+        android:textSize="50px"
+
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="162dp" />
+
+    <EditText
+        android:id="@+id/haslo1"
+        android:layout_width="403dp"
+        android:layout_height="41dp"
+        android:hint="Podaj hasło"
+
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="204dp" />
+
+    <TextView
+        android:layout_width="168dp"
+        android:layout_height="28dp"
+        android:text="Powtórz hasło:"
+        android:textColor="@color/black"
+        android:textSize="50px"
+
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="261dp" />
+
+    <EditText
+        android:id="@+id/haslo2"
+        android:layout_width="403dp"
+        android:layout_height="41dp"
+        android:hint="Powtórz hasło"
+
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="304dp" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
