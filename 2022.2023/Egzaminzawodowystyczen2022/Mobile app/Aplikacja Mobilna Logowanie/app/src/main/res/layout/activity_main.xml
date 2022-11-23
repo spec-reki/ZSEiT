@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <!-- Sekcja "Rejestruj Konto" -->
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="411dp"
+        android:layout_height="58dp"
+        android:background="@color/teal_700"
+        android:text="Rejestruj konto"
+        android:textColor="@color/white"
+
+
+        android:textSize="100px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/podajemail"
+        android:layout_width="123dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="20dp"
+        android:text="Podaj e-mail:"
+
+        android:textColor="@color/black"
+
+        android:textSize="50px"
+        app:layout_constraintTop_toBottomOf="@+id/textView3"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <EditText
+        android:id="@+id/polemail"
+        android:layout_width="403dp"
+        android:layout_height="41dp"
+        android:layout_marginTop="8dp"
+        android:hint="email"
+        app:layout_constraintTop_toBottomOf="@+id/podajemail"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="4dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="121dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="16dp"
+        android:text="Podaj hasło:"
+
+        android:textColor="@color/black"
+        android:textSize="50px"
+        app:layout_constraintTop_toBottomOf="@+id/polemail"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <EditText
+        android:id="@+id/haslo1"
+        android:layout_width="403dp"
+        android:layout_height="41dp"
+        android:layout_marginTop="8dp"
+        android:hint="Podaj hasło"
+        android:inputType="textPassword"
+
+
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="4dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="172dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="32dp"
+        android:text="Powtórz hasło:"
+
+        android:textColor="@color/black"
+        android:textSize="50px"
+        app:layout_constraintTop_toBottomOf="@+id/haslo1"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="4dp" />
+
+    <EditText
+        android:id="@+id/haslo2"
+        android:layout_width="403dp"
+        android:layout_height="41dp"
+        android:layout_marginTop="8dp"
+        android:hint="Powtórz hasło"
+
+        android:inputType="textPassword"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="4dp" />
+
+    <Button
+        android:id="@+id/zatwierdz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp"
+        android:backgroundTint="@color/material_dynamic_secondary70"
+
+        android:text="ZATWIERDŹ"
+
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/haslo2" />
+
+    <TextView
+        android:id="@+id/powiadomienia"
+        android:layout_width="124dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="32dp"
+        android:textColor="@color/black"
+        android:textSize="40px"
+        android:textAlignment="center"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/zatwierdz"
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="MissingConstraints" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
