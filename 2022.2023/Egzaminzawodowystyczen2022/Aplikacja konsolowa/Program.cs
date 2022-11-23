@@ -1,51 +1,57 @@
-﻿using System;
+using System;
+using System.Collections.Generic;
 
-namespace ExamInf04
+namespace inf04
 {
-    class Program
+    internal static class Program
     {
-        static void Main ()
+        private const int NumberOfElements = 10;
+
+        private static int[] _integerArray = new int[NumberOfElements]; 
+
+        public static void Main(string[] args)
         {
-            double[] liczba = new double[10];
-
-            Console.WriteLine("Please, input 10 numbers");
-
-            liczba[0] = Convert.ToInt32(Console.ReadLine());
-            liczba[1] = Convert.ToInt32(Console.ReadLine());
-            liczba[2] = Convert.ToInt32(Console.ReadLine());
-            liczba[3] = Convert.ToInt32(Console.ReadLine());
-            liczba[4] = Convert.ToInt32(Console.ReadLine());
-            liczba[5] = Convert.ToInt32(Console.ReadLine());
-            liczba[6] = Convert.ToInt32(Console.ReadLine());
-            liczba[7] = Convert.ToInt32(Console.ReadLine());
-            liczba[8] = Convert.ToInt32(Console.ReadLine());
-            liczba[9] = Convert.ToInt32(Console.ReadLine());
-
-            BubbleSort(liczba);
-
-
-            Console.ReadKey();
-        }
-
-        public static void BubbleSort(double[] liczba)
-        {
-            double temp;
-
-            for (int i = 0; i < liczba.Length -1; i++)
+            Console.WriteLine("Wczytywanie z klawiatury: ");
+            
+            for (var i = 0; i < NumberOfElements; i++)
             {
-                for (int j = 0; j < liczba.Length - (1 + i); j++)
-                {
-                    if (liczba[j] > liczba[j + 1])
-                    {
-                        temp = liczba[j + 1];
-                        liczba[j+ 1] = liczba[j];
-                        liczba[j] = temp;
+                var add = int.Parse(Console.ReadLine());
 
-                    }
-                }
+                _integerArray[i] = add;
             }
+            
+            SelectionSort(_integerArray);
+            
+            Console.WriteLine("Po sortowaniu: ");
+            
+            foreach (var item in _integerArray)
+            {
+                Console.WriteLine(item);
+            }
+
+            Console.WriteLine("Najwieksza liczba w tablicy: ");
+            Console.WriteLine(GetHighestNumber(_integerArray));
         }
 
+        private static int[] SelectionSort(int[] list)
+        {
+            for (var i = 0; i < NumberOfElements - 1 ; i++)
+            {
+                var max = i;
 
-    }
-}
+                for (var j = i + 1 ; j < NumberOfElements; j++)
+                {
+                    if (list[max] < list[j])
+                        max = j;
+                }
+                
+                (list[max], list[i]) = (list[i], list[max]);
+            }
+
+            return list;
+        }
+
+        private static int GetHighestNumber(IList<int> list)
+        {
+            return list[0];
+        }
