@@ -40,11 +40,10 @@
         tools:layout_editor_absoluteX="0dp" />
 
     <EditText
-        android:id="@+id/email"
+        android:id="@+id/polemail"
         android:layout_width="403dp"
         android:layout_height="41dp"
-        android:layout_marginTop="4dp"
-
+        android:layout_marginTop="8dp"
         android:hint="email"
         app:layout_constraintTop_toBottomOf="@+id/podajemail"
         tools:ignore="MissingConstraints"
@@ -54,12 +53,12 @@
         android:id="@+id/textView2"
         android:layout_width="121dp"
         android:layout_height="46dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="16dp"
         android:text="Podaj hasło:"
 
         android:textColor="@color/black"
         android:textSize="50px"
-        app:layout_constraintTop_toBottomOf="@+id/email"
+        app:layout_constraintTop_toBottomOf="@+id/polemail"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="0dp" />
 
@@ -67,7 +66,7 @@
         android:id="@+id/haslo1"
         android:layout_width="403dp"
         android:layout_height="41dp"
-        android:layout_marginTop="4dp"
+        android:layout_marginTop="8dp"
         android:hint="Podaj hasło"
         android:inputType="textPassword"
 
@@ -94,8 +93,9 @@
         android:layout_width="403dp"
         android:layout_height="41dp"
         android:layout_marginTop="8dp"
-
         android:hint="Powtórz hasło"
+
+        android:inputType="textPassword"
         app:layout_constraintTop_toBottomOf="@+id/textView"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="4dp" />
@@ -116,18 +116,20 @@
         app:layout_constraintTop_toBottomOf="@+id/haslo2" />
 
     <TextView
-        android:id="@+id/witaj"
-        android:layout_width="142dp"
-        android:layout_height="34dp"
-        android:layout_marginTop="28dp"
-
-        android:text=""
-
+        android:id="@+id/powiadomienia"
+        android:layout_width="124dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="32dp"
         android:textColor="@color/black"
         android:textSize="40px"
+        android:textAlignment="center"
+
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/zatwierdz"
+        app:layout_constraintVertical_bias="0.0"
         tools:ignore="MissingConstraints" />
 
 
