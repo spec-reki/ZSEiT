@@ -1,0 +1,4 @@
+- Strona główna  - zawierająca nagłówek w postacie menu ( dowolna kompozycja)
+- W odnośnikach do menu należy wykonać listę rozwijalną za pośrednictwem ,której będzie dostępny formularz z operacjami CRUD zapisującymi dane do pliku
+- Należy wykonać przejścia pomiędzy operacjami CRUD ( np. szczegóły jedne pozycji ,  edycja danych  , formularz zapisu , pełna lista danych)
+- Czas na wykonanie zadania - trzy bloki praktyczne ( zadanie do wykonania podczas zajęć) tj. 7.02.2023r do 21.02.2023r.
