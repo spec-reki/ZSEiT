@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 import java.text.SimpleDateFormat;
+import java.time.LocalDate;
 import java.util.Calendar;
 import java.util.Date;
 
@@ -19,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         TextView Birthday = findViewById(R.id.Birthday);
         TextView Year = findViewById(R.id.Year);
         TextView Summer = findViewById(R.id.Summer);
+        TextView Dzien = findViewById(R.id.Dzien);
 
         Calendar currentDate = Calendar.getInstance();
         SimpleDateFormat dateFormat = new SimpleDateFormat("dd.MM.yyyy");
@@ -27,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         Calendar BirthdayDate = Calendar.getInstance();
-        BirthdayDate.set(2023, Calendar.MAY, 22);
+        BirthdayDate.set(2023, Calendar.MAY, 30);
         long diff = BirthdayDate.getTimeInMillis() - currentDate.getTimeInMillis();
         int daysToBirthday = (int) (diff / (24 * 60 * 60 * 1000));
         Birthday.setText(daysToBirthday + " dni");
@@ -43,6 +45,10 @@ public class MainActivity extends AppCompatActivity {
         long diff2 = VacationDate.getTimeInMillis() - currentDate.getTimeInMillis();
         int daysToVacation = (int) (diff2 / (24 * 60 * 60 * 1000));
         Summer.setText(daysToVacation + " dni");
+
+        String dzien = LocalDate.now().getDayOfWeek().name();
+        Dzien.setText(dzien);
+
 
     }
 }
