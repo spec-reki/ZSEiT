@@ -9,16 +9,16 @@ const Home = () => {
 
     return (
       <><div className="home">
-        <h2>To-Do List</h2>
+      <h2 className="TDL">To-Do List</h2>
       </div>
       <div className="menubutton"><button class="menu_btn" onClick={handleClick}>CRUD</button></div>
       <div>
           <div className="content">
             <div class="menu" id="menu">
-              <p class="item">First Item</p>
-              <p class="item">Second Item</p>
-              <p class="item">Third Item</p>
-              <p class="item" >Fourth Item</p>
+              <p class="item">Create Item</p>
+              <p class="item">List of your items</p>
+              <p class="item">Edit one of your items</p>
+              <p class="item">Delete one o your items</p>
             </div>
           </div>
         </div></>
