@@ -11,7 +11,7 @@ export default function Home() {
         <title>GrowList</title>
       </Head>
       <Login />
-      <i class="fa-sharp fa-solid fa-user"></i>
+      
     </div>
   )
 }
