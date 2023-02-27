@@ -7,9 +7,10 @@ export default function Login() {
     const [error, setError] = useState(null)
     const [isLoggingIn, setIsLoggingIn] = useState(true)
 
-    const {login, signup} = useAuth()
+    const {login, signup, currentUser} = useAuth()
+    console.log(currentUser)
 
-    async function submitHandler(e) {
+    async function submitHandler() {
         if (!email || !password) {
             setError("Please fill in all fields")
             return
