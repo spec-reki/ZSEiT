@@ -33,9 +33,9 @@ export default function Login() {
                 {error && <div className=" border-pink-700 text-lg text-pink-300 border-b-4 text-center border-solid">
                 {error}
                 </div>}
-            <input value={email} onChange={(e) => setEmail(e.target.value)} type="text" placeholder="Email Adress" className="outline-none duration-300 border-b-4 border-solid focus:border-yellow-300 text-slate-900 p-2 w-40%"></input>
-            <input value={password} onChange={(e) => setPassword(e.target.value)} type="password" placeholder="Password" className="outline-none duration-300 border-b-4 border-solid focus:border-yellow-300 text-slate-900 p-2 w-45% "></input>
-            <button onClick={submitHandler} className="bg-pink-600 text-white p-2 duration-300 hover:bg-purple-700">SUBMIT</button>
+            <input value={email} onChange={(e) => setEmail(e.target.value)} type="text" placeholder="Email Adress" className="outline-none duration-300 border-b-4 border-solid focus:border-violet-500 text-slate-900 p-2 w-40%"></input>
+            <input value={password} onChange={(e) => setPassword(e.target.value)} type="password" placeholder="Password" className="outline-none duration-300 border-b-4 border-solid focus:border-violet-500 text-slate-900 p-2 w-45% "></input>
+            <button onClick={submitHandler} className="bg-violet-700 text-white p-2 duration-300 hover:bg-blue-500">SUBMIT</button>
             <h2 className="duration-300 hover:scale-110 cursor-pointer uppercase" onClick={() =>setIsLoggingIn(!isLoggingIn)}>{!isLoggingIn ? 'Login' : 'register'}</h2>
     
     </div>
