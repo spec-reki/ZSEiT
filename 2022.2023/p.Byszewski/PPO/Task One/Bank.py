@@ -1,15 +1,27 @@
-#create class Bank
+# Inicjalizacja klasy Bank
+#
+# Klasa przechowuje informacje o numerach kont w banku i pinach do tych kont
+# Klasa posiada metody:
+# - createAccount - tworzy nowe konto w banku
+# - closeAccount - usuwa konto z banku
+# - viewAccounts - wyświetla wszystkie konta w banku
+#
 
 class Bank:
-    def __init__(self, name, balance):
+    def __init__(self, name):
         self.name = name
-        self.balance = balance
+        self.accountsNumbers = []
+        self.accountsPins = []
 
-    def deposit(self, amount):
-        self.balance += amount
+    def createAccount(self, account, pin):
+        self.accountsNumbers.append(account)
+        self.accountsPins.append(pin)
 
-    def withdraw(self, amount):
-        self.balance -= amount
+    def closeAccount(self, account, pin):
+        self.accountsNumbers.remove(account)
+        self.accountsPins.remove(pin)
 
-    def __str__(self):
-        return "Name: " + self.name + " Balance: " + str(self.balance)
+    def viewAccounts(self):
+        print(self.accountsNumbers)
+
+bank = Bank("Good Bank")
