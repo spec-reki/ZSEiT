@@ -1,3 +1,5 @@
+#inicjaizacja klasy Person
+
 class Person:
     def __init__(self, name, surname, gender, age, phonenumber, address):
         self.name = name
@@ -7,6 +9,7 @@ class Person:
         self.phonenumber = phonenumber
         self.address = address
 
+#wypisywanie danych z bazy
     def Person_info(self):
         print(" Imię: " + self.name)
         print(" Nazwisko: " + self.surname)

@@ -1,7 +1,11 @@
+#Import potrzebnych modułów i klas
+
 from random import randint
 from Client import client1, client2, client3, client4, client5
 from Account import First_client_account, Second_client_account, Third_client_account, Fourth_client_account, Fifth_client_account
 from Bank import bank
+
+#Funkcja odpowiadająca za wybór klienta i sprawdzanie poprawności danych
 
 def run():
     global Name, Pin, selected_client, selected_account
@@ -29,6 +33,8 @@ def run():
         selected_account = Fifth_client_account
         menu()
 
+#Funkcja odpowiadająca za wybór operacji
+
 def menu():
     if(Name == Name == client1.name + " " + client1.surname or Name == client2.name + " " + client2.surname or Name == client3.name + " " + client3.surname or Name == client4.name + " " + client4.surname or Name == client5.name + " " + client5.surname and Pin == selected_account.accountPin):
         global choice
@@ -53,6 +59,8 @@ def menu():
             print("Wyjście")
         else:
             print("Niepoprawny Numer Operacji")
+
+#Funkcja odpowiadająca za wybór uźytkownika
 
 def make_choice():
         if(choice == 1):

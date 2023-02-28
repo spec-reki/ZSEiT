@@ -1,8 +1,15 @@
+#inicjalizacja klasy Bank
+
 class Bank:
     def __init__(self, name):
         self.name = name
         self.accountsNumbers = []
         self.accountsPins = []
+
+#metody klasy Bank
+#metoda do tworzenia konta
+#metoda do usuwania konta
+#metoda do wyswietlania kont
 
     def createAccount(self, account, pin):
         self.accountsNumbers.append(account)
@@ -14,5 +21,7 @@ class Bank:
 
     def viewAccounts(self):
         print(self.accountsNumbers)
+
+#nazwa banku
 
 bank = Bank("BankFullOFMoney")
