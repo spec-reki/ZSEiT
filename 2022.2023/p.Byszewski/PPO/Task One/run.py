@@ -1,18 +1,3 @@
-# Inicjalizacja klasy Run
-#
-# Importuje klasy oraz zmienne z plików Client.py, Account.py i Bank.py
-# Klasa Run posiada funkcje:
-# - run - uruchamia program
-# - menu - wyświetla menu programu
-# - second_menu - wyświetla menu po wykonaniu operacji
-#
-# Klasa Run posiada zmienne:
-# - Name - przechowuje imię i nazwisko klienta który chce się zalogować
-# - Pin - przechowuje pin do konta klienta który chce się zalogować
-# - selected_client - przechowuje wybranego klienta
-# - selected_account - przechowuje wybrane konto klienta
-
-
 from random import randint
 from Client import client1, client2, client3, client4, client5
 from Account import First_client_account, Second_client_account, Third_client_account, Fourth_client_account, Fifth_client_account
