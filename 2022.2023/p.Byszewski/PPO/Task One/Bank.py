@@ -24,4 +24,4 @@ class Bank:
     def viewAccounts(self):
         print(self.accountsNumbers)
 
-bank = Bank("Good Bank")
+bank = Bank("BankFullOFMoney")

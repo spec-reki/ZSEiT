@@ -11,7 +11,6 @@
 # - Pin - przechowuje pin do konta klienta który chce się zalogować
 # - selected_client - przechowuje wybranego klienta
 # - selected_account - przechowuje wybrane konto klienta
-#
 
 
 from random import randint

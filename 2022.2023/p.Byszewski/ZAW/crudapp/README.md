@@ -1,1 +1,0 @@
-This project came up by specific task which I've got from my teacher. It's web listing app with all of crud options, register/login system included and database wrapped to project created in firestore.
