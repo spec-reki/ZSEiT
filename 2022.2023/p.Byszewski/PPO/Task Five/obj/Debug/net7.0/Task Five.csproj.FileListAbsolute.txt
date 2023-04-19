@@ -1,0 +1,15 @@
+C:\Users\4TP_gr_2\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Five\obj\Debug\net7.0\Task Five.csproj.AssemblyReference.cache
+C:\Users\4TP_gr_2\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Five\obj\Debug\net7.0\Task Five.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4TP_gr_2\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Five\obj\Debug\net7.0\Task Five.AssemblyInfoInputs.cache
+C:\Users\4TP_gr_2\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Five\obj\Debug\net7.0\Task Five.AssemblyInfo.cs
+C:\Users\4TP_gr_2\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Five\obj\Debug\net7.0\Task Five.csproj.CoreCompileInputs.cache
+C:\Users\4TP_gr_2\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Five\bin\Debug\net7.0\Task Five.exe
+C:\Users\4TP_gr_2\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Five\bin\Debug\net7.0\Task Five.deps.json
+C:\Users\4TP_gr_2\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Five\bin\Debug\net7.0\Task Five.runtimeconfig.json
+C:\Users\4TP_gr_2\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Five\bin\Debug\net7.0\Task Five.dll
+C:\Users\4TP_gr_2\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Five\bin\Debug\net7.0\Task Five.pdb
+C:\Users\4TP_gr_2\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Five\obj\Debug\net7.0\Task Five.dll
+C:\Users\4TP_gr_2\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Five\obj\Debug\net7.0\refint\Task Five.dll
+C:\Users\4TP_gr_2\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Five\obj\Debug\net7.0\Task Five.pdb
+C:\Users\4TP_gr_2\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Five\obj\Debug\net7.0\Task Five.genruntimeconfig.cache
+C:\Users\4TP_gr_2\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Five\obj\Debug\net7.0\ref\Task Five.dll
