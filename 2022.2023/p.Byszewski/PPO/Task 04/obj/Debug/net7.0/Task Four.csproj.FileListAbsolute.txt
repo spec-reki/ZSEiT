@@ -1,0 +1,15 @@
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Four\bin\Debug\net7.0\Task Four.exe
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Four\bin\Debug\net7.0\Task Four.deps.json
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Four\bin\Debug\net7.0\Task Four.runtimeconfig.json
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Four\bin\Debug\net7.0\Task Four.dll
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Four\bin\Debug\net7.0\Task Four.pdb
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Four\obj\Debug\net7.0\Task Four.csproj.AssemblyReference.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Four\obj\Debug\net7.0\Task Four.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Four\obj\Debug\net7.0\Task Four.AssemblyInfoInputs.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Four\obj\Debug\net7.0\Task Four.AssemblyInfo.cs
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Four\obj\Debug\net7.0\Task Four.csproj.CoreCompileInputs.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Four\obj\Debug\net7.0\Task Four.dll
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Four\obj\Debug\net7.0\refint\Task Four.dll
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Four\obj\Debug\net7.0\Task Four.pdb
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Four\obj\Debug\net7.0\Task Four.genruntimeconfig.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Task Four\obj\Debug\net7.0\ref\Task Four.dll
