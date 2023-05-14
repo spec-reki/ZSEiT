@@ -1,0 +1,15 @@
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\TicketControler\bin\Debug\net7.0\TicketControler.exe
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\TicketControler\bin\Debug\net7.0\TicketControler.deps.json
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\TicketControler\bin\Debug\net7.0\TicketControler.runtimeconfig.json
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\TicketControler\bin\Debug\net7.0\TicketControler.dll
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\TicketControler\bin\Debug\net7.0\TicketControler.pdb
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\TicketControler\obj\Debug\net7.0\TicketControler.csproj.AssemblyReference.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\TicketControler\obj\Debug\net7.0\TicketControler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\TicketControler\obj\Debug\net7.0\TicketControler.AssemblyInfoInputs.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\TicketControler\obj\Debug\net7.0\TicketControler.AssemblyInfo.cs
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\TicketControler\obj\Debug\net7.0\TicketControler.csproj.CoreCompileInputs.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\TicketControler\obj\Debug\net7.0\TicketControler.dll
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\TicketControler\obj\Debug\net7.0\refint\TicketControler.dll
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\TicketControler\obj\Debug\net7.0\TicketControler.pdb
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\TicketControler\obj\Debug\net7.0\TicketControler.genruntimeconfig.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\TicketControler\obj\Debug\net7.0\ref\TicketControler.dll
