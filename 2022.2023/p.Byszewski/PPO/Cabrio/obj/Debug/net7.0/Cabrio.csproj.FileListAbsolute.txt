@@ -1,0 +1,15 @@
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Cabrio\bin\Debug\net7.0\Cabrio.exe
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Cabrio\bin\Debug\net7.0\Cabrio.deps.json
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Cabrio\bin\Debug\net7.0\Cabrio.runtimeconfig.json
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Cabrio\bin\Debug\net7.0\Cabrio.dll
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Cabrio\bin\Debug\net7.0\Cabrio.pdb
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Cabrio\obj\Debug\net7.0\Cabrio.csproj.AssemblyReference.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Cabrio\obj\Debug\net7.0\Cabrio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Cabrio\obj\Debug\net7.0\Cabrio.AssemblyInfoInputs.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Cabrio\obj\Debug\net7.0\Cabrio.AssemblyInfo.cs
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Cabrio\obj\Debug\net7.0\Cabrio.csproj.CoreCompileInputs.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Cabrio\obj\Debug\net7.0\Cabrio.dll
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Cabrio\obj\Debug\net7.0\refint\Cabrio.dll
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Cabrio\obj\Debug\net7.0\Cabrio.pdb
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Cabrio\obj\Debug\net7.0\Cabrio.genruntimeconfig.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Byszewski\PPO\Cabrio\obj\Debug\net7.0\ref\Cabrio.dll
