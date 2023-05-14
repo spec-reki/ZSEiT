@@ -1,0 +1,15 @@
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Perzan\Console apps\Gallows\bin\Debug\net7.0\Gallows.exe
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Perzan\Console apps\Gallows\bin\Debug\net7.0\Gallows.deps.json
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Perzan\Console apps\Gallows\bin\Debug\net7.0\Gallows.runtimeconfig.json
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Perzan\Console apps\Gallows\bin\Debug\net7.0\Gallows.dll
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Perzan\Console apps\Gallows\bin\Debug\net7.0\Gallows.pdb
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Perzan\Console apps\Gallows\obj\Debug\net7.0\Gallows.csproj.AssemblyReference.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Perzan\Console apps\Gallows\obj\Debug\net7.0\Gallows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Perzan\Console apps\Gallows\obj\Debug\net7.0\Gallows.AssemblyInfoInputs.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Perzan\Console apps\Gallows\obj\Debug\net7.0\Gallows.AssemblyInfo.cs
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Perzan\Console apps\Gallows\obj\Debug\net7.0\Gallows.csproj.CoreCompileInputs.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Perzan\Console apps\Gallows\obj\Debug\net7.0\Gallows.dll
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Perzan\Console apps\Gallows\obj\Debug\net7.0\refint\Gallows.dll
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Perzan\Console apps\Gallows\obj\Debug\net7.0\Gallows.pdb
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Perzan\Console apps\Gallows\obj\Debug\net7.0\Gallows.genruntimeconfig.cache
+C:\Users\spec-reki\Documents\GitHub\ZSEiT\2022.2023\p.Perzan\Console apps\Gallows\obj\Debug\net7.0\ref\Gallows.dll
